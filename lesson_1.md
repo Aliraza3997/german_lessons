@@ -37,7 +37,7 @@ Topic: Alphabets
 
 ## Sentences
 
-- Ich benutze sagen in eine satz.
+- Ich benutze sagen in eine Satz.
 - Ich benutze ein auto zu fahren.
 - Ich gebe jemand ein wort und dann bitte buchstabieren diese wort.
 - Hast jemand eine frage?
