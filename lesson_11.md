@@ -37,17 +37,12 @@ e.g Ich habe einen Computer (Akkusative)
 
 ### 3. Articles
 
-Nominative
-
-Masculine der ein
-Feminine die eine
-Neutral das ein
-
-Akkusative
-
-Masculine den einen
-Feminine die eine
-Neutral das ein
+|           | Nominative |           | Akkusative |
+| :-------- | :--------: | :-------: | :--------- | :-------- |
+|           |  Regular   | Irregular | Regular    | Irregular |
+| Masculine |    der     |    ein    | den        | einen     |
+| Feminine  |    die     |   eine    | die        | eine      |
+| Neutral   |    das     |    ein    | das        | ein       |
 
 ## Tips
 
