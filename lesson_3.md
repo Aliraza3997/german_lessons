@@ -1,6 +1,6 @@
 # Lesson 3
 
-Date: Tuesday, 05.10.2021
+Date: Thursday, 06.10.2021
 Topic: Time
 
 ## Vocabulary

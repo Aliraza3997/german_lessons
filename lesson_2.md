@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 2
 
 Date: Wednesday, 06.10.2021
 Topic: Numbers & Time

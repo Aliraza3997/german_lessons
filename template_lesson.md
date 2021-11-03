@@ -3,6 +3,8 @@
 Date: Tuesday, 05.10.2021
 Topic: Alphabets
 
+Special Letters: ä ö ü ß
+
 ## Vocabulary
 
 - unsere: our
@@ -12,6 +14,14 @@ Topic: Alphabets
 
 - Ich benutze sagen in eine Satz.
 - Ich benutze ein auto zu fahren.
+
+## Important Topics
+
+1. Topic 1
+
+## Topics Description
+
+### Topic 1
 
 ## Tips
 
