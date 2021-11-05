@@ -37,7 +37,7 @@ e.g Ich habe einen Computer (Akkusative)
 
 ### 3. Articles
 
-|           | Nominative |           | Akkusative |
+|           | Nominative |           | Akkusative |           |
 | :-------- | :--------: | :-------: | :--------- | :-------- |
 |           |  Regular   | Irregular | Regular    | Irregular |
 | Masculine |    der     |    ein    | den        | einen     |
