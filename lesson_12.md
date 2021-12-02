@@ -66,3 +66,4 @@ On the other hand, some prepositions can be both accusative and dative. In this 
 | Masculine |    der     |    ein    | den        | einen     | dem     | einem     |
 | Feminine  |    die     |   eine    | die        | eine      | der     | einer     |
 | Neutral   |    das     |    ein    | das        | ein       | dem     | einem     |
+| Plural    |    die     |           | die        |           | den     |           |
